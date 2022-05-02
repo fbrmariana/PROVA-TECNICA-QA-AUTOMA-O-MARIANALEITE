@@ -4,7 +4,7 @@
 Funcionalidade: Realizar compra
   Eu um cliente cadastrado no site automationpractice.com
   quero realizar uma compra de 3 produtos
-  Para que eu possa estar bem vestida
+  Para recebe-los em minha casa
 
   @compra-sucesso
   Cenario: Compra de produto
